@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Everything
+- 👯 I’m looking to collaborate on Hawaii
+- 🤔 I’m looking for help with avoiding taxes
+- 💬 Ask me about.. just don't
+- 📫 How to reach me: Shout from window!
+- 😄 Pronouns: You can use they/whatever if you retraded 
 <!--
 **Original-Nativy/Original-Nativy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
